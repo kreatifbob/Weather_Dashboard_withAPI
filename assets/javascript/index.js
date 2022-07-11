@@ -1,2 +1,2 @@
 const ApiKey = '';
-const searchButton = document.getElementById('searchCity');
+const searchButton = document.getElementById("searchButton");
